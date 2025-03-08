@@ -7,6 +7,8 @@
 
 # New! Brew coffee here
 
+![Coffee Recipe](https://teapot.mcds.moe/coffee.png)
+
 ```bash
 # the L is needed!!!
 
