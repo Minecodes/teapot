@@ -5,6 +5,20 @@
 
 --------------------------
 
+# New! Brew coffee here
+
+```bash
+# the L is needed!!!
+
+curl -L -H "User-Agent: CoffeeNeedingITGuy/1.0" https://teapot.mcds.moe
+
+# or
+
+curl -L -H "Content-Type: application/coffee-pot-command" https://teapot.mcds.moe
+```
+
+--------------------------
+
 HTTP error "418 I'm a teapot" was defined in the april fools jokes of 1998 and 2014. It was defined for the RFC 2324 aka. Hyper Text Coffee Pot Control Protocol. The error is returned when a server refuses to brew coffee because it is a teapot. Sadly the RFC is not completely implemented on this site, so you can't brew coffee here. But you can still enjoy the error message.
 
 # References
